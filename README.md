@@ -4,11 +4,11 @@
 
 Submitted by: **Alison Kao**
 
-Time spent: **4** hours spent in total
+Time spent: **3** hours spent in total
 
 ## Summary
 
-**Go Nuts** is an android app that recreates the common "Hello, World!", to introduce ourselves to the neighborhood squirrel 🐿. 
+**Go Nuts** is an android app that recreates the common "Hello, World!", to introduce ourselves to the neighborhood squirrel 🐿. It includes a customable profile and to share more about themselves.
 
 If I had to describe this project in three (3) emojis, they would be: 🐿️😎😯
 
