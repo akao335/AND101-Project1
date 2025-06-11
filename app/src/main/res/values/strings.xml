@@ -5,7 +5,7 @@
     <string name="last_name">Kao</string>
     <string name="full_name">%s %s</string>
 
-    <string name="profile_bio_text">Hi! I am sophmore at UTD. \n Nice to meet you!</string>
+    <string name="profile_bio_text">         Hi! I am sophmore at UTD. \n         I enjoy many fun puzzle games such as minesweeper and sudoku \n        Nice to meet you!</string>
 
     <string name="profile_hobby_header_text">Greatest Hobbies of All Time:</string>
     <string name="profile_hobby_first_text">🥇 Jigsaw Puzzles</string>
