@@ -8,7 +8,7 @@ Time spent: **4** hours spent in total
 
 ## Summary
 
-**Go Nuts** is an android app that recreates the common "Hello, World!", to introduce ourselves to the neighborhood squirrel 🐿.  **Change or add to this description**
+**Go Nuts** is an android app that recreates the common "Hello, World!", to introduce ourselves to the neighborhood squirrel 🐿. 
 
 If I had to describe this project in three (3) emojis, they would be: 🐿️😎😯
 
@@ -36,8 +36,9 @@ The following EXTRA features are implemented:
 Here's a video / GIF that demos all of the app's implemented features:
 
 <img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Demo' width='' alt='Video Demo' />
+https://www.loom.com/share/1db8f85ab95544c8b13da7484caea967?sid=23eec12f-cf1e-4ee8-9b24-934214c23c2a
 
-GIF created with **your chosen GIF tool**
+Video created using Loom
 
 <!-- Recommended tools:
 - [Kap](https://getkap.co/) for macOS
